@@ -36,6 +36,8 @@ This project was built to demonstrate full-stack development with Python and Dja
 <img width="1920" height="1080" alt="shop_freshly_user_login" src="https://github.com/user-attachments/assets/60fdb581-eba5-451d-9168-06409181b8c6" />
 <img width="1920" height="1080" alt="shop_freshly_admin_login" src="https://github.com/user-attachments/assets/6f7f6888-2fa8-4181-8c38-7d6d93426366" />
 <img width="1920" height="1080" alt="shop_freshly_user_signup" src="https://github.com/user-attachments/assets/768c215e-1edc-4319-bcb4-c23e4848a227" />
+<img width="1920" height="1080" alt="shop_freshly_product" src="https://github.com/user-attachments/assets/16adf31d-c101-4dde-a6ed-82a8c52f9c50" />
+<img width="1920" height="1080" alt="shop_freshly_cart" src="https://github.com/user-attachments/assets/f70e6776-8909-4be2-8710-6528d5a9db68" />
 
 ## Contact
 - Name: Aryan Tamrakar
